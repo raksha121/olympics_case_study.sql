@@ -37,8 +37,8 @@ Column	Description
 NOC	National Olympic Committee 3-letter code
 Region	Region name
 Notes	Additional information about the region
-20 Questions Explored
-From the dataset, I explored the following  questions utilizing MYSQL:
+
+From the dataset, I explored the following  questions utilizing MYSQL:
 
 How many Olympic games have been held?
 List down all Olympic games held so far.
